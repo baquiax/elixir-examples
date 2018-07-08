@@ -1,0 +1,12 @@
+{release,{"clock","0.1.0"},
+         {erts,"9.3"},
+         [{kernel,"5.4.3"},
+          {stdlib,"3.4.5"},
+          {distillery,"1.5.2"},
+          {logger,"1.6.4"},
+          {compiler,"7.1.5"},
+          {elixir,"1.6.4"},
+          {clock,"0.1.0"},
+          {iex,"1.6.4"},
+          {sasl,"3.1.1"},
+          {runtime_tools,"1.12.5"}]}.
